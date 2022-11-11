@@ -1,0 +1,33 @@
+{
+  "name": "mofron-comp-numkeyboard",
+  "version": "0.0.1",
+  "description": "number keyboard mobile component for mofron",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simpart/mofron-comp-numkeyboard.git"
+  },
+  "dependencies": {
+    "mofron-comp-text": "",
+    "mofron-layout-hrzcenter": "",
+    "mofron-layout-grid": "",
+    "mofron-comp-frame": "",
+    "mofron-event-touchstart": "",
+    "mofron-effect-color": "",
+    "mofron-effect-hrzpos": "",
+    "mofron-effect-vrtpos": ""
+  },
+  "keywords": [
+    "mofron",
+    "front-end"
+  ],
+  "author": "simparts",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/simpart/mofron-comp-numkeyboard/issues"
+  },
+  "homepage": "https://github.com/simpart/mofron-comp-numkeyboard#readme"
+}
